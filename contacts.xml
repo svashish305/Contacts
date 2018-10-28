@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>FNa</first_name>
+	<last_name>LNa</last_name>
+	<phone_number>89234234</phone_number>
+	<notes>My Notes</notes>
+</contact>
+<contact>
+	<first_name>FNb</first_name>
+	<last_name>LNb</last_name>
+	<phone_number>32432852</phone_number>
+	<notes>His new edited notes</notes>
+</contact>
+<contact>
+	<first_name>FNc </first_name>
+	<last_name>LNc</last_name>
+	<phone_number>324234234</phone_number>
+	<notes>his notes</notes>
+</contact>
+<contact>
+	<first_name>FNd</first_name>
+	<last_name>LNd</last_name>
+	<phone_number>32423524</phone_number>
+	<notes>her notes</notes>
+</contact>
+</contacts>
